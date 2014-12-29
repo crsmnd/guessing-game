@@ -1,0 +1,62 @@
+body {
+	padding-top: 50px;
+}
+
+.jumbotron {
+	max-width: 600px;
+	margin-right: auto;
+  	margin-left: auto;
+}
+
+.jumbotron p {
+	font-size: 18px;
+}
+
+.btn {
+	margin-bottom: 10px;
+}
+
+.center-icon {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+#guess-history {
+	text-align: left;	
+}
+
+.modal-dialog {
+	width: 500px;
+	margin: 100px auto;
+}
+
+.modal-content {
+	height: 342px;
+	width: 500px;
+}
+
+.modal-backdrop {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#overlay-text { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-size: 18px;
+   text-align: center;
+   text-decoration: bold;
+   color: white;
+   font-weight: 200px;
+   font-size: 20px;
+   font-weight: 200;
+}
+
+
+
